@@ -1,8 +1,17 @@
 \begin{thebibliography}{}
 
-\bibitem[Nome~do Autor 2024]{SobrenomeAutor2024}
-Nome~do Autor, S. (2024).
-\newblock Título do artigo.
-\newblock {\em Nome da Revista}, 10(5):123--145.
+\bibitem[Araujo 2022]{araujo2022metodos}
+Araujo, R. C. R.~d. (2022).
+\newblock M{\'e}todos de autentica{\c{c}}{\~a}o considerando aspectos de
+  seguran{\c{c}}a, privacidade e experi{\^e}ncia de uso: a vis{\~a}o dos
+  usu{\'a}rios finais.
+
+\bibitem[Monteiro et~al. 2025]{courb}
+Monteiro, G., Araújo, R., Rodrigues, L., Menezes, R., Maia, P., and Gomes, R.
+  (2025).
+\newblock Autenticação de usuários e atestação de dispositivos em
+  ambientes urbanos usando tpm.
+\newblock In {\em Anais do IX Workshop de Computação Urbana}, pages 209--222,
+  Porto Alegre, RS, Brasil. SBC.
 
 \end{thebibliography}

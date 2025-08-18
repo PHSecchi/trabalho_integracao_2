@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.24)  16 AUG 2025 16:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.24)  18 AUG 2025 11:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -313,24 +313,23 @@ L3 programming layer <2024-01-04>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5660 strings out of 474485
- 98833 string characters out of 5742318
- 1930542 words of memory out of 5000000
- 27877 multiletter control sequences out of 15000+600000
- 572617 words of font info for 62 fonts, out of 8000000 for 9000
+ 5662 strings out of 474485
+ 98807 string characters out of 5742318
+ 1940542 words of memory out of 5000000
+ 27881 multiletter control sequences out of 15000+600000
+ 570988 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,8n,79p,296b,367s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,8n,79p,754b,367s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/PHSecchi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmr8.pfb><C:/Users/PHSecchi/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /amsfonts/cm/cmsy10.pfb><C:/Users/PHSecchi/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/courier/ucrr8a.pfb><C:/Users/PHSecchi/AppData/Local/Programs/MiKTeX/f
 onts/type1/urw/times/utmb8a.pfb><C:/Users/PHSecchi/AppData/Local/Programs/MiKTe
-X/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/PHSecchi/AppData/Local/Programs/M
-iKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/PHSecchi/AppData/Local/Program
-s/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Trabalho_Integracao_2.pdf (1 page, 83665 bytes).
+X/fonts/type1/urw/times/utmr8a.pfb><C:/Users/PHSecchi/AppData/Local/Programs/Mi
+KTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Trabalho_Integracao_2.pdf (1 page, 77012 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
+ 37 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
